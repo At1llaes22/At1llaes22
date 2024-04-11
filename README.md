@@ -1,5 +1,5 @@
 - Hi, I’m Atilla Emre Söylemez
-- Senior CS student at Bilkent University
+- Junior CS student at Bilkent University
 - 20
 <!---
 At1llaes22/At1llaes22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
